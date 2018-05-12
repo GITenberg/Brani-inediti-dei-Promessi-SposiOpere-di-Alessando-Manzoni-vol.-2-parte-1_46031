@@ -1,0 +1,28 @@
+_repo: Brani-inediti-dei-Promessi-SposiOpere-di-Alessando-Manzoni-vol.-2-parte-1_46031
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46031-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Manzoni, Alessandro
+    birthdate: 1785
+    deathdate: 1873
+    gutenberg_agent_id: '37500'
+    url: http://www.gutenberg.org/2009/agents/37500
+    wikipedia: http://en.wikipedia.org/wiki/Alessandro_Manzoni
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2014-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46031'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Manzoni, Alessandro, 1785-1873'
+title: Brani inediti dei Promessi Sposi. Opere di Alessando Manzoni vol. 2 parte 1
+url: http://www.gutenberg.org/ebooks/46031
